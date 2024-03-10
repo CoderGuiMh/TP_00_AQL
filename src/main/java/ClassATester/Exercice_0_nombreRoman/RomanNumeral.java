@@ -1,4 +1,4 @@
-package ClassATester.nombreRoman;
+package ClassATester.Exercice_0_nombreRoman;
 
 import java.util.HashMap;
 import java.util.Map;

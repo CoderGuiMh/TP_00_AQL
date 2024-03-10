@@ -1,6 +1,6 @@
 package Exercice_1Test;
 
-import ClassATester.PersonExercice_1.Person;
+import ClassATester.Exercice_1_Person.Person;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.Assert.assertEquals;

@@ -1,4 +1,4 @@
-package ClassATester.PersonExercice_1;
+package ClassATester.Exercice_1_Person;
 
 public class Person {
     private String firstName;

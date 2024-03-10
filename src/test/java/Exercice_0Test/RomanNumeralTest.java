@@ -1,6 +1,6 @@
-package RomanNumberTest;
+package Exercice_0Test;
 
-import ClassATester.nombreRoman.RomanNumeral;
+import ClassATester.Exercice_0_nombreRoman.RomanNumeral;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

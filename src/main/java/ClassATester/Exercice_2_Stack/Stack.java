@@ -1,4 +1,4 @@
-package ClassATester.StackExercice_2;
+package ClassATester.Exercice_2_Stack;
 
 public class Stack {
 
@@ -43,10 +43,6 @@ public class Stack {
         array = newArray;
     }
 
-
-    public int getTopOfStack(){
-        return array[top];
-    }
     public int[] getArray() {
         return array;
     }
